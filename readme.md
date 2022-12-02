@@ -10,8 +10,9 @@ This year I'll be doing it in python (again) as I'm not confident enough to use 
 
 ### how to run:
 
-I may make a main script to run a script using ``input()``,
-but for now every file can be run as a script.
+Run ``main.py`` and input the day and part you want to solve,
+
+Or you can run the relevant file as a script.
 
 To replace my input by yours simply replace the ``input.txt`` file in the day you want to run.
 
@@ -22,6 +23,8 @@ To replace my input by yours simply replace the ``input.txt`` file in the day yo
 A bit of text describing my experience with creating a solution for a specific day.
 
 * day 1: It's the first day, and it shows in its easiness.
+
+* day 2: 
 
 ---
 
