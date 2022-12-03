@@ -24,7 +24,9 @@ A bit of text describing my experience with creating a solution for a specific d
 
 * day 1: It's the first day, and it shows in its easiness.
 
-* day 2: 
+* day 2: I may or may not have abused the ``ord`` function.
+
+* day 3: I love sets, and they love me.
 
 ---
 
