@@ -28,6 +28,8 @@ A bit of text describing my experience with creating a solution for a specific d
 
 * day 3: I love sets, and they love me.
 
+* day 4: Gotta love debugging 4 variables and a bunch of inequality signs early in the morning.
+
 ---
 
 Thanks for reading!
