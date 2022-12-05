@@ -30,6 +30,8 @@ A bit of text describing my experience with creating a solution for a specific d
 
 * day 4: Gotta love debugging 4 variables and a bunch of inequality signs early in the morning.
 
+* day 5: The debugging took longer than the parsing (skill issue).
+
 ---
 
 Thanks for reading!
