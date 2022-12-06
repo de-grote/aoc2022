@@ -32,6 +32,8 @@ A bit of text describing my experience with creating a solution for a specific d
 
 * day 5: The debugging took longer than the parsing (skill issue).
 
+* day 6: Just a sliding window algorithm basically, nothing special here.
+
 ---
 
 Thanks for reading!
