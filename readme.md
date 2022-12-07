@@ -34,6 +34,8 @@ A bit of text describing my experience with creating a solution for a specific d
 
 * day 6: Just a sliding window algorithm basically, nothing special here.
 
+* day 7: Finally got to use recursion in aoc again!
+
 ---
 
 Thanks for reading!
