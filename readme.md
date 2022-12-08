@@ -36,6 +36,8 @@ A bit of text describing my experience with creating a solution for a specific d
 
 * day 7: Finally got to use recursion in aoc again!
 
+* day 8: Bug fixing grids is a great way to spend your time.
+
 ---
 
 Thanks for reading!
