@@ -38,6 +38,8 @@ A bit of text describing my experience with creating a solution for a specific d
 
 * day 8: Bug fixing grids is a great way to spend your time.
 
+* day 9: A lot of if checks, but it's fine I guess.
+
 ---
 
 Thanks for reading!
