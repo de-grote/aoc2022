@@ -40,6 +40,8 @@ A bit of text describing my experience with creating a solution for a specific d
 
 * day 9: A lot of if checks, but it's fine I guess.
 
+* day 10: I guess we're writing something completely different for part 2 then.
+
 ---
 
 Thanks for reading!
