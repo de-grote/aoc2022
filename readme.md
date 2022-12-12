@@ -44,6 +44,8 @@ A bit of text describing my experience with creating a solution for a specific d
 
 * day 11: Shoutout to my maths teacher for teaching cryptography and number theory.
 
+* day 12: I hope we're not getting another "find the shortest path" day again this year...
+
 ---
 
 Thanks for reading!
