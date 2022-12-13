@@ -46,6 +46,8 @@ A bit of text describing my experience with creating a solution for a specific d
 
 * day 12: I hope we're not getting another "find the shortest path" day again this year...
 
+* day 13: Today was actually pretty easy for me. And part 2 looks way to clean in my code.
+
 ---
 
 Thanks for reading!
