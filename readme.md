@@ -48,6 +48,8 @@ A bit of text describing my experience with creating a solution for a specific d
 
 * day 13: Today was actually pretty easy for me. And part 2 looks way to clean in my code.
 
+* day 14: Actually pretty fun day, I think you can optimise part 2 using some fancy math no one has ever heard about though.
+
 ---
 
 Thanks for reading!
