@@ -50,6 +50,8 @@ A bit of text describing my experience with creating a solution for a specific d
 
 * day 14: Actually pretty fun day, I think you can optimise part 2 using some fancy math no one has ever heard about though.
 
+* day 15: "As long as it works, it is good".
+
 ---
 
 Thanks for reading!
