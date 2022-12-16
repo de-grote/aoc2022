@@ -52,6 +52,8 @@ A bit of text describing my experience with creating a solution for a specific d
 
 * day 15: "As long as it works, it is good".
 
+* day 16: I have no idea how to write a depth first search, and it shows... This is also the first problem where I don't know if it works on all inputs.
+
 ---
 
 Thanks for reading!
